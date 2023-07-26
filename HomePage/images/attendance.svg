@@ -1,0 +1,12 @@
+<svg id="outline-how_to_reg-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Bounding_Boxes">
+    <path id="Path_2799" data-name="Path 2799" d="M0,0H24V24H0Z" fill="none"/>
+  </g>
+  <g id="Outline" transform="translate(3 4)">
+    <g id="Group_201" data-name="Group 201">
+      <path id="Path_2800" data-name="Path 2800" d="M11,12A4,4,0,1,0,7,8,4,4,0,0,0,11,12Zm0-6A2,2,0,1,1,9,8,2.006,2.006,0,0,1,11,6Z" transform="translate(-3 -4)" fill="#3e85f0"/>
+      <path id="Path_2801" data-name="Path 2801" d="M5,18c.2-.63,2.57-1.68,4.96-1.94l2.04-2A9.341,9.341,0,0,0,11,14c-2.67,0-8,1.34-8,4v2h9l-2-2Z" transform="translate(-3 -4)" fill="#3e85f0"/>
+      <path id="Path_2802" data-name="Path 2802" d="M20.6,12.5l-5.13,5.17L13.4,15.59,12,17l3.47,3.5L22,13.91Z" transform="translate(-3 -4)" fill="#3e85f0"/>
+    </g>
+  </g>
+</svg>

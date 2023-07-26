@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="outline-insert_invitation-24px" transform="translate(0 -0.045)">
+    <g id="Bounding_Boxes">
+      <path id="Path_2880" data-name="Path 2880" d="M0,.045H24v24H0Z" fill="none"/>
+    </g>
+    <g id="Outline" transform="translate(3 1)">
+      <g id="Group_223" data-name="Group 223">
+        <path id="Path_2881" data-name="Path 2881" d="M19,3.045H18v-2H16v2H8v-2H6v2H5a2,2,0,0,0-2,2v14a2,2,0,0,0,2,2H19a2.006,2.006,0,0,0,2-2v-14A2.006,2.006,0,0,0,19,3.045Zm0,16H5v-10H19Zm0-12H5v-2H19Z" transform="translate(-3 -1)" fill="#3e85f0"/>
+        <path id="XMLID_72_" d="M17,12.045H12v5h5Z" transform="translate(-3 -1)" fill="#3e85f0"/>
+      </g>
+    </g>
+  </g>
+</svg>
